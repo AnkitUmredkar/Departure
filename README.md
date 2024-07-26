@@ -66,13 +66,12 @@ explore and engage with this sacred text.
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/af0a1977-295d-4018-9465-c5ed3a181025"/>
   <img height="550" src="https://github.com/user-attachments/assets/98fccae2-2a92-4a37-b5a0-c558aca9c2a7"/>
-  <img height="550"  align="right" src="https://github.com/user-attachments/assets/24fbe4a0-2be7-4ca7-8a30-52cb4002f74b"/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/3e4bf3ba-207c-437d-b0a2-4af98f7fbf31"/>
 </div>
 
 <h1 align="left"> </h1>
 
 <div align="center">
-  <img height="550" align="left" src="https://github.com/user-attachments/assets/3e4bf3ba-207c-437d-b0a2-4af98f7fbf31"/>
   <img height="550" src="https://github.com/user-attachments/assets/f9a3ff63-959f-428d-bfa3-4d93632fd362"/>
 </div>
 
