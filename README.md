@@ -1,6 +1,6 @@
 <h1 align="center"> 🔶🔸 Bhagvad Gita App🔸🔶 </h1>
 
-<h2 align="center"> Light Mode </h2>
+<h2 align="center"> 🔶 Light Mode 🔶 </h2>
 
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/96eadaf3-f40b-4c66-af77-63e7350f679c"/>
