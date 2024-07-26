@@ -42,13 +42,12 @@ explore and engage with this sacred text.
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/c1f165d2-27b1-4dfe-979c-3585efebde6a"/>
   <img height="550" src="https://github.com/user-attachments/assets/db7b7fe1-6c4d-48b1-9d97-6439d984040f"/>
-  <img height="550"  align="right" src="https://github.com/user-attachments/assets/7d221e7a-a745-4473-aa53-b18c567f1ba5"/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/ce9ddecd-f129-48dc-ab7c-65c76459e694"/>
 </div>
 
 <h1 align="left"> </h1>
 
 <div align="center">
-  <img height="550" align="left" src="https://github.com/user-attachments/assets/ce9ddecd-f129-48dc-ab7c-65c76459e694"/>
   <img height="550" src="https://github.com/user-attachments/assets/30057081-8250-410c-81d7-35e8897cb50a"/>
 </div>
 
