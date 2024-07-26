@@ -1,6 +1,7 @@
 <h1 align="center"> 🔶🔸 Bhagvad Gita App🔸🔶 </h1>
 
-<h2 align="left"> Description </h2>
+## Description
+
 - "Departure" is a mobile application aimed at providing a comprehensive and user-friendly
 platform for studying and exploring the teachings of Bhagvat Geeta. Built using Flutter, the app
 incorporates various concepts such as local JSON bank and Shared Preferences to enhance the
