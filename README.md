@@ -40,10 +40,10 @@
 </div>
 
 <h1 align="left"> </h1>
-<h2 align="center">  Dark Mode </h2>
+<h2 align="center"> 🔶 Dark Mode 🔶 </h2>
 
 <div align="center">
-  <img height="550" align="https://github.com/user-attachments/assets/95dce468-4c88-4f4d-bfbc-1638949aa504"/>
+  <img height="550" align="left" src="https://github.com/user-attachments/assets/95dce468-4c88-4f4d-bfbc-1638949aa504"/>
   <img height="550" src="https://github.com/user-attachments/assets/f1146b96-2351-4112-bbff-e9d7a84d8ce1"/>
   <img height="550"  align="right" src="https://github.com/user-attachments/assets/921daa06-9e61-4d2e-bf17-7867517c147f"/>
 </div>
@@ -53,7 +53,7 @@
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/af0a1977-295d-4018-9465-c5ed3a181025"/>
   <img height="550" src="https://github.com/user-attachments/assets/98fccae2-2a92-4a37-b5a0-c558aca9c2a7"/>
-  <img height="550"  align="right" src=""/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/24fbe4a0-2be7-4ca7-8a30-52cb4002f74b"/>
 </div>
 
 <h1 align="left"> </h1>
